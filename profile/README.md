@@ -53,7 +53,7 @@ We believe in the power of modern, scalable, and efficient technologies:
 🌐 **Website:** [www.jasperkeyplay.com](https://www.jasperkeyplay.com)  
 📧 **Email:** [ping@jasperkeyplay.com](mailto:ping@jasperkeyplay.com)  
 📱 **Instagram:** [@jasperkeyplay](https://instagram.com/jasperkeyplay)  
-🎬 **YouTube:** [Subscribe Here](https://www.youtube.com/)  
+🎬 **YouTube:** [Subscribe Here](https://www.j.jkbs.in/yt)  
 💬 **Discord Community:** _Coming Soon_  
 📘 **FAQs & Docs:** [GitHub FAQs](https://github.com/JASPERKEYPLAY/faqs)
 
