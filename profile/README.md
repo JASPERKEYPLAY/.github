@@ -1,17 +1,75 @@
-# Hello friends! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-*   🌍  I'm based in Coimbatore, Tamil Nadu, India
-*    Hosted by LavaXCode, Jasper Keyplay is Headquartered in Coimbatore, Tamil Nadu, and started mainly for Website designing, Search Engine Optimization, Digital Marketing, and Mobile applications. Jasper Keyplay firm is run by world-class experts. We are passionate about Website Designing, Web site Building & Coding. Jasper Keyplay is a syndicated network with innovative knowledge in the technical field and development.
+<h1 align="center">
+  👋 Welcome to JASPER KEYPLAY
+</h1>
 
-💜 Follow on Instagram: https://
-❤️ Subscribe on YouTube: https://www.youtube.com/
-❤️ Subscribe to the YouTube Archive Channel: https://www.youtube.com/
-🗣 View the FAQs here: https://github.com/JASPERKEYPLAY/faqs
-💖 Support:
-💬 Discord:
-💻 Gear List:
-
-Technologies I Knew:
 <p align="center">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-                    </p>
-                    
+  <strong>Empowering the web with precision, creativity & innovation.</strong><br/>
+  🚀 A Full-Stack Web Development Company | 🌐 Coimbatore, India
+</p>
+
+---
+
+## 🧭 About Us
+
+**JASPER KEYPLAY** is a dynamic technology firm headquartered in Coimbatore, Tamil Nadu, India. We specialize in:
+- 💻 Website Design & Development
+- 📱 Mobile App Development
+- 📈 SEO & Digital Marketing
+- 🛒 Ecommerce Solutions
+- ⚙️ DevOps & Cloud Integrations
+
+Founded by a team of engineers and creatives, we deliver cutting-edge digital solutions that drive real business value. We are passionate about code, obsessed with performance, and committed to user-first design.
+
+---
+
+## 🛠️ Tech Stack We Work With
+
+We believe in the power of modern, scalable, and efficient technologies:
+
+<div align="left">
+  
+**Languages & Frameworks**  
+<code>PHP</code> • <code>Laravel</code> • <code>JavaScript</code> • <code>TypeScript</code> • <code>Node.js</code> • <code>React.js</code> • <code>Vue.js</code> • <code>Python</code> • <code>Flutter</code>
+
+**UI/UX & Design**  
+<code>Figma</code> • <code>Adobe XD</code> • <code>Photoshop</code> • <code>Illustrator</code> • <code>Sketch</code>
+
+**CMS & Ecommerce**  
+<code>WordPress</code> • <code>Wix</code> • <code>Shopify</code> • <code>WooCommerce</code>
+
+**Databases & Cloud**  
+<code>MySQL</code> • <code>MongoDB</code> • <code>AWS</code> • <code>cPanel</code>
+
+**Others**  
+<code>TailwindCSS</code> • <code>Bootstrap</code> • <code>After Effects</code> • <code>Blender</code> • <code>Linux/macOS</code>
+
+</div>
+
+---
+
+## 📡 Connect With Us
+
+📍 **Headquarters:** Coimbatore, Tamil Nadu, India  
+🌐 **Website:** [www.jasperkeyplay.com](https://www.jasperkeyplay.com)  
+📧 **Email:** [ping@jasperkeyplay.com](mailto:ping@jasperkeyplay.com)  
+📱 **Instagram:** [@jasperkeyplay](https://instagram.com/jasperkeyplay)  
+🎬 **YouTube:** [Subscribe Here](https://www.youtube.com/)  
+💬 **Discord Community:** _Coming Soon_  
+📘 **FAQs & Docs:** [GitHub FAQs](https://github.com/JASPERKEYPLAY/faqs)
+
+---
+
+## ⭐ Why Follow Us?
+
+- 🔄 Weekly Open Source Contributions
+- ✨ Latest Projects & Case Studies
+- 🧠 Technical Insights & Tutorials
+- 🎁 Free Tools & Templates
+
+> “Built with logic. Backed by design. Delivered with passion.” – Team JK
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/JASPERKEYPLAY?label=Follow%20Us&style=social" alt="GitHub followers" />
+</div>
