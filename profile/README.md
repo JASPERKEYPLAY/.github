@@ -14,7 +14,7 @@
 **JASPER KEYPLAY** is a dynamic technology firm headquartered in Coimbatore, Tamil Nadu, India. We specialize in:
 - 💻 Website Design & Development
 - 📱 Mobile App Development
-- 📈 SEO & Digital Marketing
+- 📈 SEO & SEM
 - 🛒 Ecommerce Solutions
 - ⚙️ DevOps & Cloud Integrations
 
